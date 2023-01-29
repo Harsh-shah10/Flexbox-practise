@@ -10,9 +10,10 @@
   border-width: 2px;
   /* Using display flex : side by side*/
   display: flex;
+  flex-direction: column;
   /* For horizontal - justify content */
-  justify-content: center;
   align-items: center;
+  
 }
 
 .box{
