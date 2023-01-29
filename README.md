@@ -4,6 +4,7 @@ Use justify-content again to help these frogs get to their lilypads.
 Remember that this CSS property aligns items horizontally and accepts the following values:
 # justify-content ->
 flex-start: Items align to the left side of the container.
+
 flex-end: Items align to the right side of the container.
 center: Items align at the center of the container.
 space-between: Items display with equal spacing between them.
