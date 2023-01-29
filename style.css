@@ -11,7 +11,8 @@
   /* Using display flex : side by side*/
   display: flex;
   /* For horizontal - justify content */
-  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
 }
 
 .box{
