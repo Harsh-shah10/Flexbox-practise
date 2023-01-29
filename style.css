@@ -8,6 +8,8 @@
   border-style: solid;
   border-color: rgb(255, 1, 1);
   border-width: 2px;
+  /* Using display flex : side by side*/
+  display: flex;
 }
 
 .box{
