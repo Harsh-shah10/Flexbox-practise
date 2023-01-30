@@ -9,7 +9,14 @@
     /* Using display flex : side by side*/
     display: flex;
     justify-content: space-between;
+    padding: 24px;
 }
+
+.display-wrapper{
+    display: flex;
+    align-items: center;
+   
+  }
 
 .big-box{
     width: 100px;
@@ -26,4 +33,5 @@
     border-style: solid;
     border-color: green;
     border-width: 2px;
+    margin-left: 24px;
 }
